@@ -11,7 +11,7 @@
 #define M_PI 3.14159265358979323846
 #endif
 
-// Define shape 
+// Define shape type 
 typedef enum {
     SHAPE_LINE = 1,
     SHAPE_RECTANGLE,
